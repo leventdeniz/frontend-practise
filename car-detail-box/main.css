@@ -31,7 +31,7 @@ dl {
     text-align: center;
     display: block;
     flex-grow: 1;
-    padding: 1em 1.75em;
+    padding: 1em 0;
     background-color: #e5e5e5;
     border-right: 1px solid white;
     font-weight: bold;
